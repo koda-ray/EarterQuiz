@@ -18,6 +18,7 @@ class ViewController: UIViewController {
     var sushibonus:Int = 0
         
 
+
     @IBOutlet weak var myName: UITextField!
     
     
